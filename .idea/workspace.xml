@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="810684ae-714e-492a-bfad-7775ef5c9bd9" name="Default Changelist" comment="" />
+    <list default="true" id="810684ae-714e-492a-bfad-7775ef5c9bd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayFunctional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlayFunctional.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,54 +16,45 @@
     <session id="330215974">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2556" />
+          <entry key="java" value="6439" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2556" />
+          <entry key="JAVA" value="6439" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PlayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#forEach#0;class#PlayList#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PlayMoreList.java">
+        <entry file="file://$PROJECT_DIR$/src/NumbersService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="570">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,13 +63,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EvenNos.java">
+        <entry file="file://$PROJECT_DIR$/src/NumbersServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="684">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EvenOdds.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -86,8 +91,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -102,6 +111,12 @@
         <option value="$PROJECT_DIR$/src/PlayList.java" />
         <option value="$PROJECT_DIR$/src/EvenNos.java" />
         <option value="$PROJECT_DIR$/src/PlayMoreList.java" />
+        <option value="$PROJECT_DIR$/src/com/xyz/JavaLists.java" />
+        <option value="$PROJECT_DIR$/src/com/xyz/OddNos.java" />
+        <option value="$PROJECT_DIR$/src/com/xyz/JavaStreamsList.java" />
+        <option value="$PROJECT_DIR$/src/EvenOdds.java" />
+        <option value="$PROJECT_DIR$/src/NumbersService.java" />
+        <option value="$PROJECT_DIR$/src/NumbersServiceTest.java" />
       </list>
     </option>
   </component>
@@ -111,11 +126,15 @@
     <option name="width" value="1283" />
     <option name="height" value="732" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,13 +151,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599038771867" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600855760168" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,38 +182,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PlayMoreList">
-    <configuration name="EvenNos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenNos" />
+  <component name="RunManager" selected="JUnit.NumbersServiceTest">
+    <configuration name="JavaStreamsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xyz.JavaStreamsList" />
       <module name="PlayFunctional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlayList" />
+    <configuration name="NumbersServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlayFunctional" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumbersServiceTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayMoreList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlayMoreList" />
+    <configuration name="NumbersServiceTest.getEvenNos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlayFunctional" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumbersServiceTest" />
+      <option name="METHOD_NAME" value="getEvenNos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersServiceTest.testGetNos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlayFunctional" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumbersServiceTest" />
+      <option name="METHOD_NAME" value="testGetNos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersServiceTest.testGetNosEdgeCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlayFunctional" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumbersServiceTest" />
+      <option name="METHOD_NAME" value="testGetNosEdgeCases" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PlayList" />
-      <item itemvalue="Application.EvenNos" />
-      <item itemvalue="Application.PlayMoreList" />
+      <item itemvalue="Application.JavaStreamsList" />
+      <item itemvalue="JUnit.NumbersServiceTest" />
+      <item itemvalue="JUnit.NumbersServiceTest.getEvenNos" />
+      <item itemvalue="JUnit.NumbersServiceTest.testGetNos" />
+      <item itemvalue="JUnit.NumbersServiceTest.testGetNosEdgeCases" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PlayMoreList" />
-        <item itemvalue="Application.EvenNos" />
-        <item itemvalue="Application.PlayList" />
+        <item itemvalue="JUnit.NumbersServiceTest" />
+        <item itemvalue="JUnit.NumbersServiceTest.testGetNosEdgeCases" />
+        <item itemvalue="JUnit.NumbersServiceTest.testGetNos" />
+        <item itemvalue="JUnit.NumbersServiceTest.getEvenNos" />
+        <item itemvalue="Application.JavaStreamsList" />
       </list>
     </recent_temporary>
   </component>
@@ -200,11 +264,42 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="NumbersServiceTest - 2020.09.23 at 15h 26m 35s.xml">
+      <configuration name="NumbersServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest_getEvenNos - 2020.09.23 at 15h 28m 24s.xml">
+      <configuration name="NumbersServiceTest.getEvenNos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest - 2020.09.23 at 15h 28m 31s.xml">
+      <configuration name="NumbersServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest - 2020.09.23 at 15h 28m 39s.xml">
+      <configuration name="NumbersServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest_testGetNos - 2020.09.23 at 15h 29m 32s.xml">
+      <configuration name="NumbersServiceTest.testGetNos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest - 2020.09.23 at 15h 30m 03s.xml">
+      <configuration name="NumbersServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest - 2020.09.23 at 15h 30m 33s.xml">
+      <configuration name="NumbersServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest_testGetNos - 2020.09.23 at 15h 31m 32s.xml">
+      <configuration name="NumbersServiceTest.testGetNos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest_testGetNosEdgeCases - 2020.09.23 at 15h 31m 39s.xml">
+      <configuration name="NumbersServiceTest.testGetNosEdgeCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersServiceTest - 2020.09.23 at 15h 32m 10s.xml">
+      <configuration name="NumbersServiceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14151464" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14814815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -213,14 +308,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3211297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -238,29 +333,76 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/PlayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#forEach#0;class#PlayList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EvenNos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="513">
+          <caret line="31" column="73" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PlayMoreList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xyz/OddNos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xyz/JavaLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#forEach#0;class#JavaLists#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xyz/JavaStreamsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvenNos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumbersServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvenOdds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumbersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
